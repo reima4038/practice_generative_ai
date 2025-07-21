@@ -1,0 +1,33 @@
+{
+  "name": "practice_generative_ai",
+  "version": "1.0.0",
+  "description": "生成AIを使った開発の試行用リポジトリ",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reima4038/practice_generative_ai.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/reima4038/practice_generative_ai/issues"
+  },
+  "homepage": "https://github.com/reima4038/practice_generative_ai#readme",
+  "dependencies": {
+    "html-webpack-plugin": "^5.6.3",
+    "phaser": "^3.90.0",
+    "ts-loader": "^9.5.2",
+    "typescript": "^5.8.3",
+    "webpack": "^5.100.2",
+    "webpack-cli": "^6.0.1",
+    "webpack-dev-server": "^5.2.2"
+  }
+}
