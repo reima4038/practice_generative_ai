@@ -1,0 +1,2 @@
+# practice_generative_ai
+生成AIを使った開発の試行用リポジトリ
